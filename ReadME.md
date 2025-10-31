@@ -1,4 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvenetiaqueen&count_bg=%23575956&title_bg=%23D415A4&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fvenetiaqueen&label=Profile+Views&icon=bookmark-heart-fill&color=%23ff00bb&message=&style=flat&tz=UTC)
+
 
 
 - 👋 Hi, I’m @venetiaqueen
